@@ -1,0 +1,32 @@
+,Sector,intersection,health,climate
+0,automobiles & parts,10.67,49.67,108.33
+1,banks,6.0,34.33,196.67
+2,beverages,3.0,35.0,30.5
+3,chemicals,5.75,83.44,83.5
+4,construction & materials,8.33,55.0,44.89
+5,diversified,2.67,33.12,43.3
+6,electronic & electrical equ...,4.0,58.0,37.25
+7,finance and credit services,2.0,17.0,82.0
+8,food producers,8.5,76.0,45.7
+9,general industrials,6.75,74.0,57.5
+10,household goods & home cons...,1.5,29.75,36.5
+11,industrial engineering,1.0,31.67,38.0
+12,industrial materials,3.0,29.5,38.5
+13,industrial metals and mining,3.5,39.0,46.5
+14,industrial support services,4.14,47.29,65.0
+15,industrial transportation,2.0,25.5,31.5
+16,life insurance,6.5,85.5,66.0
+17,media,9.5,65.0,110.0
+18,medical equipment and services; health care providers,12.2,145.8,53.0
+19,nonlife insurance,3.0,59.0,93.0
+20,not applicable,0.54,10.85,5.46
+21,"oil, gas, & coal",7.33,55.83,116.33
+22,personal goods,1.0,22.0,19.0
+23,pharmaceuticals & biotechno...,12.12,223.62,34.0
+24,real estate investment & se...,8.25,69.25,111.0
+25,real estate investment trusts,6.75,55.25,56.25
+26,retailers,5.67,39.33,50.33
+27,software & computer services,2.83,36.08,70.21
+28,technology hardware & equip...,6.82,66.64,70.27
+29,telecommunications equipment; telecommunications service providers,1.33,28.0,52.0
+30,travel & leisure,2.0,33.0,143.0

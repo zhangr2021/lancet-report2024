@@ -1,0 +1,33 @@
+,Sector,Climate,Health,Intersection,Year
+0,alternative energy,0.0,1.0,0.0,2023
+1,automobiles & parts,0.75,1.0,0.17,2023
+2,banks,0.8,0.9,0.7,2023
+3,beverages,1.0,1.0,1.0,2023
+4,chemicals,0.14,1.0,0.14,2023
+5,construction & materials,0.6,0.6,0.0,2023
+6,diversified,0.86,1.0,0.71,2023
+7,electricity,0.92,0.88,0.27,2023
+8,finance and credit services,1.0,1.0,0.25,2023
+9,financial services,0.64,0.82,0.18,2023
+10,"gas, water & multiutilities",1.0,1.0,1.0,2023
+11,general industrials,0.92,0.46,0.23,2023
+12,household goods & home cons...,0.0,1.0,0.0,2023
+13,industrial engineering,0.0,1.0,0.0,2023
+14,industrial materials,1.0,1.0,0.0,2023
+15,industrial metals & mining,1.0,1.0,0.2,2023
+16,industrial metals and mining,1.0,1.0,0.0,2023
+17,industrial support services,0.36,1.0,0.0,2023
+18,industrial transportation,1.0,1.0,1.0,2023
+19,investment banking and brokerage services,0.0,1.0,0.0,2023
+20,media,0.09,0.13,0.0,2023
+21,medical equipment and services; health care providers,0.75,0.88,0.5,2023
+22,nonlife insurance,1.0,1.0,1.0,2023
+23,not applicable,1.0,0.0,0.0,2023
+24,"oil, gas, & coal",0.84,0.88,0.32,2023
+25,pharmaceuticals & biotechno...,0.67,1.0,0.33,2023
+26,real estate investment & se...,1.0,1.0,0.89,2023
+27,retailers,0.87,1.0,0.4,2023
+28,software & computer services,1.0,0.83,0.17,2023
+29,technology hardware & equip...,0.25,1.0,0.0,2023
+30,telecommunications equipment; telecommunications service providers,1.0,1.0,0.0,2023
+31,travel & leisure,0.67,1.0,0.67,2023

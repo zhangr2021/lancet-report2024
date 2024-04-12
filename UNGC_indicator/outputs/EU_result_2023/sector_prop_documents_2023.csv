@@ -1,0 +1,39 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,aerospace & defense,15,14,14,13,0.93,0.93,0.87
+1,alternative energy,43,40,42,29,0.93,0.98,0.67
+2,automobiles & parts,50,47,48,36,0.94,0.96,0.72
+3,banks,70,68,68,50,0.97,0.97,0.71
+4,beverages,31,29,31,23,0.94,1.0,0.74
+5,chemicals,85,77,79,52,0.91,0.93,0.61
+6,construction & materials,113,100,103,74,0.88,0.91,0.65
+7,diversified,253,232,239,141,0.92,0.94,0.56
+8,electricity,52,52,51,41,1.0,0.98,0.79
+9,electronic & electrical equ...,62,55,55,33,0.89,0.89,0.53
+10,finance and credit services,133,131,126,92,0.98,0.95,0.69
+11,food producers,102,94,96,66,0.92,0.94,0.65
+12,"gas, water & multiutilities",44,41,42,33,0.93,0.95,0.75
+13,general industrials,158,141,146,82,0.89,0.92,0.52
+14,household goods & home cons...,31,30,31,14,0.97,1.0,0.45
+15,industrial engineering,66,59,59,35,0.89,0.89,0.53
+16,industrial materials,29,26,27,17,0.9,0.93,0.59
+17,industrial metals and mining,40,37,37,29,0.92,0.92,0.72
+18,industrial support services,244,197,209,103,0.81,0.86,0.42
+19,industrial transportation,86,79,82,52,0.92,0.95,0.6
+20,investment banking and brokerage services,22,20,22,13,0.91,1.0,0.59
+21,leisure goods,13,13,12,8,1.0,0.92,0.62
+22,life insurance,15,15,14,12,1.0,0.93,0.8
+23,media,40,33,37,16,0.82,0.92,0.4
+24,medical equipment and services; health care providers,45,42,44,32,0.93,0.98,0.71
+25,nonlife insurance,27,27,27,22,1.0,1.0,0.81
+26,not applicable,46,39,36,13,0.85,0.78,0.28
+27,"oil, gas, & coal",38,37,38,32,0.97,1.0,0.84
+28,open end and miscellaneous investment vehicles,2,2,2,1,1.0,1.0,0.5
+29,personal goods,45,42,43,27,0.93,0.96,0.6
+30,pharmaceuticals & biotechno...,49,46,49,41,0.94,1.0,0.84
+31,real estate investment & se...,60,56,57,41,0.93,0.95,0.68
+32,real estate investment trusts,7,7,7,7,1.0,1.0,1.0
+33,retailers,106,100,101,62,0.94,0.95,0.58
+34,software & computer services,189,157,161,75,0.83,0.85,0.4
+35,technology hardware & equip...,46,41,43,27,0.89,0.93,0.59
+36,telecommunications equipment; telecommunications service providers,31,31,29,18,1.0,0.94,0.58
+37,travel & leisure,58,50,52,27,0.86,0.9,0.47

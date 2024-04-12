@@ -1,0 +1,25 @@
+,Sector,intersection,health,climate
+0,automobiles & parts,1.0,19.0,25.0
+1,banks,0.0,1.0,20.0
+2,construction & materials,0.0,5.0,1.0
+3,diversified,3.33,36.17,89.5
+4,electronic & electrical equ...,3.0,114.0,176.0
+5,finance and credit services,5.0,52.6,61.6
+6,food producers,12.0,92.5,77.0
+7,"gas, water & multiutilities",43.0,121.0,152.0
+8,general industrials,0.33,44.0,18.67
+9,industrial metals and mining,6.12,72.62,81.75
+10,industrial support services,5.43,51.14,107.71
+11,industrial transportation,3.5,50.0,116.0
+12,investment banking and brokerage services,0.5,8.5,23.0
+13,medical equipment and services; health care providers,10.0,146.0,48.5
+14,nonlife insurance,33.0,118.0,431.0
+15,not applicable,0.0,2.5,0.0
+16,open end and miscellaneous investment vehicles,1.0,8.0,45.0
+17,real estate investment & se...,1.0,23.0,83.5
+18,real estate investment trusts,7.0,69.33,105.0
+19,retailers,4.6,69.8,54.4
+20,software & computer services,5.0,42.0,52.0
+21,technology hardware & equip...,13.33,233.0,194.0
+22,telecommunications equipment; telecommunications service providers,5.0,55.5,118.5
+23,travel & leisure,3.0,65.0,102.0

@@ -1,0 +1,26 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,alternative energy,1,1,1,1,1.0,1.0,1.0
+1,banks,1,1,1,1,1.0,1.0,1.0
+2,beverages,2,2,2,1,1.0,1.0,0.5
+3,chemicals,3,3,3,2,1.0,1.0,0.67
+4,construction & materials,1,1,1,1,1.0,1.0,1.0
+5,diversified,8,7,7,5,0.88,0.88,0.62
+6,electronic & electrical equ...,2,2,2,1,1.0,1.0,0.5
+7,food producers,1,1,1,1,1.0,1.0,1.0
+8,general industrials,3,3,3,3,1.0,1.0,1.0
+9,household goods & home cons...,1,1,1,0,1.0,1.0,0.0
+10,industrial engineering,2,2,1,1,1.0,0.5,0.5
+11,industrial materials,3,2,3,2,0.67,1.0,0.67
+12,industrial metals and mining,2,2,2,1,1.0,1.0,0.5
+13,industrial support services,5,3,3,2,0.6,0.6,0.4
+14,industrial transportation,1,1,1,0,1.0,1.0,0.0
+15,investment banking and brokerage services,1,1,1,0,1.0,1.0,0.0
+16,leisure goods,1,1,1,0,1.0,1.0,0.0
+17,nonlife insurance,1,1,1,1,1.0,1.0,1.0
+18,personal goods,1,1,1,1,1.0,1.0,1.0
+19,pharmaceuticals & biotechno...,1,0,1,0,0.0,1.0,0.0
+20,real estate investment & se...,2,2,2,1,1.0,1.0,0.5
+21,retailers,3,3,3,2,1.0,1.0,0.67
+22,software & computer services,3,3,3,0,1.0,1.0,0.0
+23,technology hardware & equip...,3,3,3,1,1.0,1.0,0.33
+24,travel & leisure,1,1,1,1,1.0,1.0,1.0

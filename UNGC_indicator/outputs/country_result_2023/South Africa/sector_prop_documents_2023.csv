@@ -1,0 +1,17 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,chemicals,1,1,1,1,1.0,1.0,1.0
+1,diversified,2,2,2,2,1.0,1.0,1.0
+2,electricity,1,1,1,1,1.0,1.0,1.0
+3,finance and credit services,2,2,2,2,1.0,1.0,1.0
+4,food producers,1,1,1,1,1.0,1.0,1.0
+5,general industrials,1,1,1,1,1.0,1.0,1.0
+6,industrial materials,2,2,2,2,1.0,1.0,1.0
+7,industrial metals and mining,1,1,1,1,1.0,1.0,1.0
+8,industrial transportation,1,1,1,1,1.0,1.0,1.0
+9,medical equipment and services; health care providers,1,1,1,1,1.0,1.0,1.0
+10,nonlife insurance,1,1,1,1,1.0,1.0,1.0
+11,open end and miscellaneous investment vehicles,1,0,1,0,0.0,1.0,0.0
+12,pharmaceuticals & biotechno...,1,1,1,1,1.0,1.0,1.0
+13,real estate investment trusts,2,2,2,2,1.0,1.0,1.0
+14,retailers,2,2,2,1,1.0,1.0,0.5
+15,technology hardware & equip...,1,1,1,1,1.0,1.0,1.0

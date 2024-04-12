@@ -1,0 +1,35 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,aerospace & defense,1,1,1,0,1.0,1.0,0.0
+1,alternative energy,5,5,5,4,1.0,1.0,0.8
+2,banks,6,6,6,1,1.0,1.0,0.17
+3,beverages,1,1,1,0,1.0,1.0,0.0
+4,chemicals,4,4,4,1,1.0,1.0,0.25
+5,construction & materials,7,4,4,3,0.57,0.57,0.43
+6,diversified,57,46,53,26,0.81,0.93,0.46
+7,electricity,24,24,24,11,1.0,1.0,0.46
+8,electronic & electrical equ...,7,7,7,6,1.0,1.0,0.86
+9,finance and credit services,9,9,9,3,1.0,1.0,0.33
+10,food producers,17,16,16,14,0.94,0.94,0.82
+11,"gas, water & multiutilities",12,12,12,7,1.0,1.0,0.58
+12,general industrials,16,14,15,11,0.88,0.94,0.69
+13,household goods & home cons...,1,0,0,0,0.0,0.0,0.0
+14,industrial engineering,1,1,1,1,1.0,1.0,1.0
+15,industrial materials,4,4,4,2,1.0,1.0,0.5
+16,industrial metals and mining,4,4,4,2,1.0,1.0,0.5
+17,industrial support services,23,17,20,7,0.74,0.87,0.3
+18,industrial transportation,6,6,6,2,1.0,1.0,0.33
+19,investment banking and brokerage services,1,1,1,1,1.0,1.0,1.0
+20,life insurance,3,2,3,2,0.67,1.0,0.67
+21,media,3,3,2,0,1.0,0.67,0.0
+22,medical equipment and services; health care providers,10,9,10,8,0.9,1.0,0.8
+23,nonlife insurance,2,1,2,1,0.5,1.0,0.5
+24,not applicable,8,5,6,3,0.62,0.75,0.38
+25,"oil, gas, & coal",9,9,9,6,1.0,1.0,0.67
+26,personal goods,5,5,5,5,1.0,1.0,1.0
+27,pharmaceuticals & biotechno...,6,6,6,5,1.0,1.0,0.83
+28,real estate investment & se...,4,4,4,3,1.0,1.0,0.75
+29,retailers,10,8,9,6,0.8,0.9,0.6
+30,software & computer services,15,14,13,6,0.93,0.87,0.4
+31,technology hardware & equip...,1,1,1,1,1.0,1.0,1.0
+32,telecommunications equipment; telecommunications service providers,4,3,3,3,0.75,0.75,0.75
+33,travel & leisure,1,1,1,0,1.0,1.0,0.0

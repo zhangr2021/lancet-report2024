@@ -1,0 +1,10 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,banks,1,1,1,1,1.0,1.0,1.0
+1,beverages,1,1,1,1,1.0,1.0,1.0
+2,construction & materials,1,1,1,1,1.0,1.0,1.0
+3,diversified,1,1,1,1,1.0,1.0,1.0
+4,finance and credit services,3,2,2,0,0.67,0.67,0.0
+5,not applicable,2,1,1,1,0.5,0.5,0.5
+6,"oil, gas, & coal",2,2,2,2,1.0,1.0,1.0
+7,software & computer services,1,1,1,1,1.0,1.0,1.0
+8,telecommunications equipment; telecommunications service providers,1,1,1,1,1.0,1.0,1.0

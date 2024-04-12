@@ -1,0 +1,23 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,aerospace & defense,1,1,1,1,1.0,1.0,1.0
+1,banks,1,1,1,1,1.0,1.0,1.0
+2,beverages,1,1,1,1,1.0,1.0,1.0
+3,chemicals,3,3,3,2,1.0,1.0,0.67
+4,construction & materials,2,2,2,2,1.0,1.0,1.0
+5,diversified,11,11,11,7,1.0,1.0,0.64
+6,electricity,1,1,1,0,1.0,1.0,0.0
+7,electronic & electrical equ...,1,1,1,1,1.0,1.0,1.0
+8,finance and credit services,9,9,9,7,1.0,1.0,0.78
+9,food producers,4,4,4,3,1.0,1.0,0.75
+10,"gas, water & multiutilities",1,1,1,0,1.0,1.0,0.0
+11,general industrials,5,5,5,1,1.0,1.0,0.2
+12,household goods & home cons...,2,2,2,2,1.0,1.0,1.0
+13,industrial support services,7,7,7,5,1.0,1.0,0.71
+14,industrial transportation,3,2,3,2,0.67,1.0,0.67
+15,life insurance,1,1,1,1,1.0,1.0,1.0
+16,not applicable,1,1,1,1,1.0,1.0,1.0
+17,"oil, gas, & coal",2,2,2,2,1.0,1.0,1.0
+18,personal goods,2,2,2,1,1.0,1.0,0.5
+19,retailers,2,2,2,2,1.0,1.0,1.0
+20,software & computer services,2,2,2,2,1.0,1.0,1.0
+21,technology hardware & equip...,1,1,1,1,1.0,1.0,1.0

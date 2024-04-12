@@ -1,0 +1,9 @@
+,Sector,Climate,Health,Intersection,Year
+0,construction & materials,0.0,1.0,0.0,2023
+1,financial services,0.0,1.0,0.0,2023
+2,industrial engineering,0.0,0.0,0.0,2023
+3,industrial support services,0.0,1.0,0.0,2023
+4,medical equipment and services; health care providers,0.67,1.0,0.0,2023
+5,"oil, gas, & coal",1.0,1.0,0.67,2023
+6,software & computer services,0.8,0.2,0.0,2023
+7,travel & leisure,0.5,1.0,0.5,2023

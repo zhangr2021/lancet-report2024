@@ -1,0 +1,24 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,alternative energy,2,2,2,1,1.0,1.0,0.5
+1,automobiles & parts,1,1,1,1,1.0,1.0,1.0
+2,beverages,2,2,2,1,1.0,1.0,0.5
+3,chemicals,2,1,2,1,0.5,1.0,0.5
+4,construction & materials,4,3,4,2,0.75,1.0,0.5
+5,diversified,8,6,8,2,0.75,1.0,0.25
+6,electricity,6,6,6,4,1.0,1.0,0.67
+7,electronic & electrical equ...,1,1,1,1,1.0,1.0,1.0
+8,finance and credit services,3,3,3,2,1.0,1.0,0.67
+9,food producers,2,1,2,1,0.5,1.0,0.5
+10,"gas, water & multiutilities",7,5,5,3,0.71,0.71,0.43
+11,general industrials,3,3,3,1,1.0,1.0,0.33
+12,industrial metals and mining,3,3,3,2,1.0,1.0,0.67
+13,industrial support services,15,7,12,3,0.47,0.8,0.2
+14,industrial transportation,3,2,3,1,0.67,1.0,0.33
+15,medical equipment and services; health care providers,2,2,2,1,1.0,1.0,0.5
+16,nonlife insurance,1,1,1,1,1.0,1.0,1.0
+17,not applicable,3,2,2,0,0.67,0.67,0.0
+18,"oil, gas, & coal",14,9,10,7,0.64,0.71,0.5
+19,pharmaceuticals & biotechno...,3,1,2,0,0.33,0.67,0.0
+20,retailers,2,2,2,2,1.0,1.0,1.0
+21,software & computer services,2,2,2,1,1.0,1.0,0.5
+22,telecommunications equipment; telecommunications service providers,1,1,1,0,1.0,1.0,0.0

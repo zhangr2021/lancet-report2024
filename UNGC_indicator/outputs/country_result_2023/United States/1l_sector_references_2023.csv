@@ -1,0 +1,38 @@
+,Sector,intersection,climate,health
+0,aerospace & defense,0.0,0.0,0.0
+1,alternative energy,10.0,255.0,103.0
+2,automobiles & parts,53.0,580.0,390.0
+3,banks,69.0,1847.0,842.0
+4,beverages,64.0,550.0,958.0
+5,chemicals,413.0,4185.0,5189.0
+6,construction & materials,244.0,1676.0,2388.0
+7,diversified,210.0,2748.0,3279.0
+8,electricity,1.0,27.0,93.0
+9,electronic & electrical equ...,65.0,578.0,1242.0
+10,finance and credit services,21.0,856.0,198.0
+11,financial services,138.0,2562.0,1467.0
+12,food producers,435.0,2161.0,7243.0
+13,general industrials,340.0,2653.0,5015.0
+14,household goods & home cons...,33.0,698.0,908.0
+15,industrial engineering,8.0,175.0,212.0
+16,industrial materials,9.0,100.0,88.0
+17,industrial metals & mining,29.0,333.0,576.0
+18,industrial metals and mining,22.0,239.0,368.0
+19,industrial support services,217.0,3412.0,3541.0
+20,industrial transportation,5.0,110.0,104.0
+21,leisure goods,4.0,38.0,58.0
+22,life insurance,13.0,132.0,171.0
+23,media,38.0,479.0,1018.0
+24,medical equipment and services; health care providers,170.0,712.0,3220.0
+25,nonlife insurance,3.0,115.0,71.0
+26,not applicable,36.0,171.0,749.0
+27,"oil, gas, & coal",175.0,2165.0,1720.0
+28,personal goods,122.0,1683.0,2097.0
+29,pharmaceuticals & biotechno...,676.0,2478.0,24368.0
+30,real estate investment & se...,94.0,1169.0,2047.0
+31,real estate investment trusts,32.0,455.0,255.0
+32,retailers,52.0,808.0,778.0
+33,software & computer services,302.0,4082.0,3506.0
+34,technology hardware & equip...,274.0,4074.0,6069.0
+35,telecommunications equipment; telecommunications service providers,27.0,514.0,390.0
+36,travel & leisure,22.0,684.0,431.0

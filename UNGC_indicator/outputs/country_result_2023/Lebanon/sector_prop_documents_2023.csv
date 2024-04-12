@@ -1,0 +1,9 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,construction & materials,2,1,2,0,0.5,1.0,0.0
+1,diversified,2,1,2,1,0.5,1.0,0.5
+2,household goods & home cons...,1,0,1,0,0.0,1.0,0.0
+3,industrial support services,1,1,1,1,1.0,1.0,1.0
+4,not applicable,5,2,3,0,0.4,0.6,0.0
+5,personal goods,2,2,2,1,1.0,1.0,0.5
+6,software & computer services,1,0,1,0,0.0,1.0,0.0
+7,technology hardware & equip...,1,1,1,1,1.0,1.0,1.0

@@ -1,0 +1,24 @@
+,Sector,intersection,climate,health
+0,banks,1.0,104.0,313.0
+1,beverages,1.0,5.0,17.0
+2,chemicals,0.0,0.0,10.0
+3,construction & materials,9.0,76.0,344.0
+4,diversified,5.0,169.0,168.0
+5,electricity,9.0,201.0,278.0
+6,electronic & electrical equ...,0.0,0.0,11.0
+7,finance and credit services,9.0,127.0,552.0
+8,financial services,1.0,6.0,39.0
+9,"gas, water & multiutilities",1.0,31.0,357.0
+10,general industrials,0.0,1.0,37.0
+11,industrial materials,5.0,84.0,102.0
+12,industrial metals & mining,60.0,761.0,2086.0
+13,industrial metals and mining,85.0,614.0,1144.0
+14,industrial support services,2.0,5.0,345.0
+15,industrial transportation,14.0,100.0,499.0
+16,media,1.0,1.0,2.0
+17,medical equipment and services; health care providers,3.0,3.0,231.0
+18,not applicable,0.0,0.0,3.0
+19,"oil, gas, & coal",75.0,1133.0,1369.0
+20,real estate investment & se...,1.0,1.0,4.0
+21,real estate investment trusts,4.0,15.0,100.0
+22,retailers,15.0,189.0,319.0

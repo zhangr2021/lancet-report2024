@@ -1,0 +1,5 @@
+Year,Companies (N),Climate (N),Health (N),Intersection (N),Climate (Prop),Health (Prop),Intersection (Prop)
+2013.0,1,1,1,0,1.0,1.0,0.0
+2015.0,2,0,0,0,0.0,0.0,0.0
+2022.0,1,1,1,1,1.0,1.0,1.0
+2023.0,1,1,1,1,1.0,1.0,1.0

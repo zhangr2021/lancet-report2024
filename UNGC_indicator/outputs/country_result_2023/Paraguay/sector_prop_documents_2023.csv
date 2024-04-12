@@ -1,0 +1,12 @@
+,Sector,Total documents,Climate (N),Health(N),Intersection(N),Climate,Health,Intersection
+0,banks,1,0,1,0,0.0,1.0,0.0
+1,construction & materials,1,1,1,0,1.0,1.0,0.0
+2,diversified,4,3,4,3,0.75,1.0,0.75
+3,finance and credit services,2,2,2,1,1.0,1.0,0.5
+4,food producers,1,0,0,0,0.0,0.0,0.0
+5,general industrials,1,1,1,1,1.0,1.0,1.0
+6,nonlife insurance,1,1,1,0,1.0,1.0,0.0
+7,not applicable,1,1,0,0,1.0,0.0,0.0
+8,pharmaceuticals & biotechno...,1,1,1,1,1.0,1.0,1.0
+9,real estate investment & se...,1,1,1,0,1.0,1.0,0.0
+10,retailers,1,0,1,0,0.0,1.0,0.0

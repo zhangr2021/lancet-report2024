@@ -1,0 +1,45 @@
+,Sector,Climate,Health,Intersection,Year
+0,aerospace & defense,0.7,0.85,0.25,2023
+1,alternative energy,0.86,0.9,0.46,2023
+2,automobiles & parts,0.64,0.9,0.32,2023
+3,banks,0.86,0.91,0.39,2023
+4,basic resources,0.33,0.67,0.0,2023
+5,beverages,0.78,0.89,0.35,2023
+6,chemicals,0.75,0.9,0.37,2023
+7,construction & materials,0.65,0.85,0.25,2023
+8,diversified,0.77,0.89,0.33,2023
+9,electricity,0.85,0.88,0.36,2023
+10,electronic & electrical equ...,0.54,0.79,0.17,2023
+11,finance and credit services,0.89,0.89,0.53,2023
+12,financial services,0.73,0.77,0.23,2023
+13,food producers,0.68,0.88,0.3,2023
+14,"gas, water & multiutilities",0.79,0.89,0.38,2023
+15,general industrials,0.65,0.83,0.22,2023
+16,household goods & home cons...,0.67,0.88,0.23,2023
+17,industrial engineering,0.58,0.85,0.21,2023
+18,industrial goods & services,0.46,0.8,0.04,2023
+19,industrial materials,0.69,0.84,0.3,2023
+20,industrial metals & mining,0.65,0.86,0.24,2023
+21,industrial metals and mining,0.68,0.82,0.46,2023
+22,industrial support services,0.54,0.81,0.14,2023
+23,industrial transportation,0.72,0.87,0.28,2023
+24,investment banking and brokerage services,0.87,0.91,0.42,2023
+25,leisure goods,0.63,0.8,0.18,2023
+26,life insurance,0.78,0.82,0.38,2023
+27,media,0.5,0.72,0.08,2023
+28,medical equipment and services; health care providers,0.59,0.94,0.24,2023
+29,nonlife insurance,0.84,0.9,0.4,2023
+30,not applicable,0.54,0.77,0.13,2023
+31,"oil, gas, & coal",0.74,0.88,0.38,2023
+32,open end and miscellaneous investment vehicles,1.0,1.0,0.5,2023
+33,other,0.75,0.94,0.0,2023
+34,personal goods,0.64,0.85,0.21,2023
+35,pharmaceuticals & biotechno...,0.71,0.94,0.41,2023
+36,real estate investment & se...,0.77,0.85,0.35,2023
+37,real estate investment trusts,0.87,0.91,0.61,2023
+38,retailers,0.62,0.8,0.21,2023
+39,software & computer services,0.53,0.79,0.12,2023
+40,technology,1.0,1.0,0.0,2023
+41,technology hardware & equip...,0.64,0.86,0.22,2023
+42,telecommunications equipment; telecommunications service providers,0.79,0.85,0.34,2023
+43,travel & leisure,0.75,0.89,0.29,2023
